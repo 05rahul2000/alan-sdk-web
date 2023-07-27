@@ -1,70 +1,30 @@
-# Getting Started with Create React App
+# AI News Assistant
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The AI News Assistant is a sophisticated web application designed to deliver news articles based on voice commands. With its advanced capabilities, this application provides a seamless and hands-free news browsing experience. Simply command the AI assistant, and it will retrieve and read out the latest news headlines to you.
 
-## Available Scripts
 
-In the project directory, you can run:
+![2023-07-27 (2)](https://github.com/05rahul2000/alan-sdk-web/assets/101270754/2a12938a-b019-4f27-8acc-bc483fd02c8a)
 
-### `npm start`
+This Application is Conversational Voice Controlled React News Application using Alan AI.Alan AI is a revolutionary speech recognition software that allows you to add voice capabilities to your applications. It allows you to control absolutely everything in the app using your voice. Another huge benefit is that it's extremely easy to integrate it.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+![2023-07-27 (3)](https://github.com/05rahul2000/alan-sdk-web/assets/101270754/a594e073-aa93-4cd6-88b7-0b5f6e32a158)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+![2023-07-27 (4)](https://github.com/05rahul2000/alan-sdk-web/assets/101270754/5533b52d-142c-4dd5-a20e-53e86052f92d)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Key Features.
 
-### `npm run build`
+a. Voice Command: Interact with the AI News Assistant using voice commands, enabling a convenient and intuitive user experience.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+b. Headline Reading: Get quick access to news headlines as the assistant reads them out upon request, allowing you to stay informed efficiently.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+c. Translation Support: Enjoy news articles in multiple languages, including German, English, and others, thanks to the translation feature.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+d. Small Talk Functionality: Engage in casual conversation with the AI assistant, providing a personalized touch to your news browsing experience.
 
-### `npm run eject`
+e. Additional Features: Discover additional functionalities such as time and date information, enhancing the application's utility and versatility.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Get your News API key from https://newsapi.org/
+## Get your Alan AI key from https://alan.app/
+## run npm i && npm start in the app.
+# Change the API key in the Alan AI key and the application code
